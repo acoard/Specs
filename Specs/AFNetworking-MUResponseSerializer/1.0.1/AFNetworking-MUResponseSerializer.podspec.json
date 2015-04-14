@@ -14,7 +14,7 @@
     "ios": "7.0"
   },
   "source": {
-    "git": "https://github.com/Ulianko/AFNetworking-MUResponseSerializer.git",
+    "git" : "https://github.com/iphonejaha/AFNetworking-MUResponseSerializer.git",
     "tag": "1.0.1"
   },
   "source_files": "Classes/*.{h,m}",
